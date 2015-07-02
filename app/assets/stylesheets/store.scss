@@ -15,7 +15,7 @@
     min-height: 100px;
 
     img {
-      width: 80px;
+      width: 100px;
       margin-right: 5px;
       margin-bottom: 5px;
       position: absolute;
@@ -28,6 +28,15 @@
       margin-top: 0;
       margin-bottom: 2px;
       color: #227;
+    }
+
+    h4 {
+      font-size: 100%;
+      font-family: sans-serif;
+      margin-left: 100px;
+      margin-top: 1;
+      margin-bottom: 2px;
+      color: black;
     }
 
     p, div.price_line {
